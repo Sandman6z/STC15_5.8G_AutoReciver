@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CH1 Pin=P1-1
+Removed Pin From Net: NetName=CH2 Pin=P1-2
+Removed Pin From Net: NetName=CH3 Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=VCC Pin=P1-5
+Removed Pin From Net: NetName=RSSI Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Member From Class: ClassName=stc15 Member=P1
+Added Component: Designator=*(9)
+Added Pin To Net: NetName=CH1 Pin=*-1
+Added Pin To Net: NetName=CH2 Pin=*-2
+Added Pin To Net: NetName=CH3 Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=VCC Pin=*-5
+Added Pin To Net: NetName=RSSI Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-9
+Added Member To Class: ClassName=stc15 Member=Component * 9
+Added Room: Name=stc15

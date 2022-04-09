@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=* Old Footprint=9 New Footprint=9pads
+Change Component Comment : Designator=* Old Comment=9 New Comment=9pads
+Added Member To Class: ClassName=stc15 Member=Component U1 STC15W401AS_SOP28_TSSOP28_SKDIP28
+Added Room: Name=stc15
